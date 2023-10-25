@@ -1,2 +1,2 @@
-filter = '&fq=keyword:"Carey Lab"'
+filter = '&fq=keyword:"University of Michigan Biological Station"'
 limit = 20
