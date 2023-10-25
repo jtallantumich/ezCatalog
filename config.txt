@@ -1,2 +1,2 @@
-filter = '&fq=keyword:"University of Michigan Biological Station"'
+filter = '&fq=keyword:"University of Michigan Biological Station","UMBS"'
 limit = 40
