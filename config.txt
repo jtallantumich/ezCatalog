@@ -1,2 +1,2 @@
-filter = '&q=id:edi.24'
-#limit = 20
+filter = '&fq=keyword:"Carey Lab"'
+limit = 20
