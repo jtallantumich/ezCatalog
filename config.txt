@@ -1,2 +1,2 @@
-filter = '&fq=keyword:"UMBS"'
+filter = '&q=id:edi.24+id:edi.224+id:edi.188+id:edi.243'
 limit = 40
